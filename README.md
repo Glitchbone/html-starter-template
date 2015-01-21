@@ -1,7 +1,7 @@
 html-starter-template
 =====================
 
-Template project used by [html-starter-template](https://github.com/Glitchbone/html-starter-template)
+Template project used by [html-starter](https://github.com/Glitchbone/html-starter)
 
 Author
 ======
