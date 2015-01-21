@@ -4,7 +4,7 @@
 .idea/
 .tmproj
 
-./src/sass-cache/
+./src/.sass-cache/
 
 # ignore node_modules
 node_modules/
